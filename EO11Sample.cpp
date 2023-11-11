@@ -5,16 +5,16 @@
 #include <vector>
 #include <string>
 
-std::unordered_map<uint32_t, std::vector<Notification *>> myMap;
+std::unordered_map<uint32_t, std::vector<Notification>> myMap;
 
-void addNotification(uint32_t processID, Notification *notification)
+void addNotification(uint32_t processID, Notification notification)
 {
     myMap[processID].push_back(notification);
 }
 
-void print_notif(Notification *notification)
+void print_notif(Notification notification)
 {
-    switch (notification->type)
+    switch (notification.type)
     {
     case NotificationType::TEST_START:
         std::wcout << L"--------TEST_START--------" << std::endl;
@@ -24,12 +24,12 @@ void print_notif(Notification *notification)
         break;
     case NotificationType::CLOSE_FILE:
     {
-        const CloseFileNotification &notif = notification->closeFile;
+        const CloseFileNotification &notif = notification.closeFile;
 
         std::wcout << L"--------CLOSE_FILE--------" << std::endl;
         std::wcout << L"PID:         " << notif.processID << std::endl;
         std::wcout << L"TID:         " << notif.threadID << std::endl;
-        std::wcout << L"FilePath:    " << notif.filePath << std::endl;
+        // std::wcout << L"FilePath:    " << notif.filePath << std::endl;
         std::wcout << L"FileId:      " << notif.fileId << std::endl;
         std::wcout << L"FileSize:    " << notif.fileSize << std::endl;
         std::wcout << L"FileContent: " << notif.fileContent << std::endl;
@@ -37,12 +37,12 @@ void print_notif(Notification *notification)
     break;
     case NotificationType::CREATE_FILE_POST:
     {
-        const CreateFilePostNotification &notif = notification->createFilePost;
+        const CreateFilePostNotification &notif = notification.createFilePost;
 
         std::wcout << L"--------CREATE_FILE_POST--------" << std::endl;
         std::wcout << L"PID:               " << notif.processID << std::endl;
         std::wcout << L"TID:               " << notif.threadID << std::endl;
-        std::wcout << L"FilePath:          " << notif.filePath << std::endl;
+        //std::wcout << L"FilePath:          " << notif.filePath << std::endl;
         std::wcout << L"FileId:            " << notif.fileId << std::endl;
 
         std::wcout << L"CreateDisposition: " << notif.createDisposition << std::endl;
@@ -61,12 +61,12 @@ void print_notif(Notification *notification)
     break;
     case NotificationType::CREATE_FILE_PRE:
     {
-        const CreateFilePreNotification &notif = notification->createFilePre;
+        const CreateFilePreNotification &notif = notification.createFilePre;
 
         std::wcout << L"--------CREATE_FILE_PRE--------" << std::endl;
         std::wcout << L"PID:               " << notif.processID << std::endl;
         std::wcout << L"TID:               " << notif.threadID << std::endl;
-        std::wcout << L"FilePath:          " << notif.filePath << std::endl;
+        // std::wcout << L"FilePath:          " << notif.filePath << std::endl;
 
         std::wcout << L"CreateDisposition: " << notif.createDisposition << std::endl;
         std::wcout << L"CreateOptions:     " << notif.createOptions << std::endl;
@@ -81,7 +81,7 @@ void print_notif(Notification *notification)
     break;
     case NotificationType::PROCESS_START:
     {
-        const ProcessStartNotification &notif = notification->processStart;
+        const ProcessStartNotification &notif = notification.processStart;
 
         std::wcout << L"--------PROCESS_START--------" << std::endl;
         std::wcout << L"PID:        " << notif.processID << std::endl;
@@ -92,7 +92,7 @@ void print_notif(Notification *notification)
     break;
     case NotificationType::PROCESS_STOP:
     {
-        const ProcessStopNotification &notif = notification->processStop;
+        const ProcessStopNotification &notif = notification.processStop;
 
         std::wcout << L"--------PROCESS_STOP--------" << std::endl;
         std::wcout << L"PID:        " << notif.processID << std::endl;
@@ -101,7 +101,7 @@ void print_notif(Notification *notification)
     break;
     case NotificationType::SET_FILE_INFO:
     {
-        const SetFileInfoNotification &notif = notification->setFileInfo;
+        const SetFileInfoNotification &notif = notification.setFileInfo;
 
         std::wcout << L"--------SET_FILE_INFO--------" << std::endl;
         std::wcout << L"PID:      " << notif.processID << std::endl;
@@ -121,16 +121,18 @@ void print_notif(Notification *notification)
 void print_notifications()
 {
     for (auto m : myMap) {
-        for (auto notif : myMap[m->first])
+        std::wcout << "=======================" << m.first << "=======================" << std::endl;
+
+        for (auto notif : myMap[m.first])
         {
             print_notif(notif);
         }
         
-        std::wcout << std::endl;
+        std::wcout << "==========================================================" << std::endl;
     }
 }
 
-void Callback(struct Notification *notification, void *ctx)
+void Callback(const struct Notification *notification, void *ctx)
 {
     ctx;
 
@@ -146,19 +148,22 @@ void Callback(struct Notification *notification, void *ctx)
     case NotificationType::CLOSE_FILE:
     {
         const CloseFileNotification &notif = notification->closeFile;
-        myMap[notif.processID].push_back(notification);
+        Notification notif1 = *notification;
+        myMap[notif.processID].push_back(notif1);
     }
     break;
     case NotificationType::CREATE_FILE_POST:
     {
         const CreateFilePostNotification &notif = notification->createFilePost;
-        myMap[notif.processID].push_back(notification);
+        Notification notif1 = *notification;
+        myMap[notif.processID].push_back(notif1);
     }
     break;
     case NotificationType::CREATE_FILE_PRE:
     {
         const CreateFilePreNotification &notif = notification->createFilePre;
-        myMap[notif.processID].push_back(notification);
+        Notification notif1 = *notification;
+        myMap[notif.processID].push_back(notif1);
     }
     break;
     case NotificationType::PROCESS_START:
@@ -167,7 +172,7 @@ void Callback(struct Notification *notification, void *ctx)
 
         if (myMap.find(notif.processID) == myMap.end())
         {
-            myMap.insert(std::make_pair(notif.processID, std::vector<Notification *>()));
+            myMap.insert(std::make_pair(notif.processID, std::vector<Notification>()));
         }
     }
     break;
@@ -179,7 +184,8 @@ void Callback(struct Notification *notification, void *ctx)
     case NotificationType::SET_FILE_INFO:
     {
         const SetFileInfoNotification &notif = notification->setFileInfo;
-        myMap[notif.processID].push_back(notification);
+        Notification notif1 = *notification;
+        myMap[notif.processID].push_back(notif1);
     }
     break;
     default:

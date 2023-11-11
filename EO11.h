@@ -1,6 +1,7 @@
 #ifndef _EESTEC_OLYMPICS_H
 #define _EESTEC_OLYMPICS_H
 #include <cstdint>
+#include <string>
 
 struct ProcessStartNotification {
     uint32_t processID;       /*ID of the process*/
@@ -97,11 +98,11 @@ struct Notification {
     };
 };
 
-typedef void (*CallbackFunc)( struct Notification* notification, void* ctx);
+typedef void (*CallbackFunc)(const struct Notification* notification, void* ctx);
 
 typedef uint32_t(__stdcall* EO11Init_t)(CallbackFunc cbk, void* ctx);
 typedef void(__stdcall* EO11Uninit_t)();
-typedef uint32_t(__stdcall* EO11AddFolderWatch_t)(const wchar_t* folderPath);
+typedef uint32_t(__stdcall* EO11AddFolderWatch_t)(const std::string folderPath);
 typedef void(__stdcall* EO11NotifyDetectionOnPID_t)(uint32_t pid);
 
 #endif
