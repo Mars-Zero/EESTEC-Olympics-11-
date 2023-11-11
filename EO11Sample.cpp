@@ -124,10 +124,9 @@ void print_notifications(uint32_t processID)
     {
         print_notif(notif);
     }
-    std::wcout << std::endl;
 }
 
-void Callback(const struct Notification *notification, void *ctx)
+void Callback(struct Notification *notification, void *ctx)
 {
     ctx;
 
@@ -142,16 +141,19 @@ void Callback(const struct Notification *notification, void *ctx)
     case NotificationType::CLOSE_FILE:
     {
         const CloseFileNotification &notif = notification->closeFile;
+        myMap[notif.processID].push_back(notification);
     }
     break;
     case NotificationType::CREATE_FILE_POST:
     {
         const CreateFilePostNotification &notif = notification->createFilePost;
+        myMap[notif.processID].push_back(notification);
     }
     break;
     case NotificationType::CREATE_FILE_PRE:
     {
         const CreateFilePreNotification &notif = notification->createFilePre;
+        myMap[notif.processID].push_back(notification);
     }
     break;
     case NotificationType::PROCESS_START:
@@ -167,20 +169,17 @@ void Callback(const struct Notification *notification, void *ctx)
     case NotificationType::PROCESS_STOP:
     {
         const ProcessStopNotification &notif = notification->processStop;
-
-        print_notifications(notif.processID);
     }
     break;
     case NotificationType::SET_FILE_INFO:
     {
         const SetFileInfoNotification &notif = notification->setFileInfo;
+        myMap[notif.processID].push_back(notification);
     }
     break;
     default:
         std::wcout << L"Error, invalid" << std::endl;
     }
-
-    std::wcout << std::endl;
 }
 
 HANDLE g_hStopEvent = nullptr;
