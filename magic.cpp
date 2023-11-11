@@ -33,9 +33,9 @@ const unsigned char magicref[1003][5] = {
     {0XFF, 0X4F, 0XFF, 0X51, 4}, // jpeg 2000
     {0X4D, 0X5A, 0, 0, 2},       // exe
     {0X5A, 0X4D, 0, 0, 2},       // exe
-    {0X50, 0X4B, 0X03, 3},       // zip
-    {0X50, 0X4B, 0X05, 3},       // zip
-    {0X50, 0X4B, 0X07, 3},       // zip
+    {0X50, 0X4B, 0X03, 0, 3},       // zip
+    {0X50, 0X4B, 0X05, 0, 3},       // zip
+    {0X50, 0X4B, 0X07, 0, 3},       // zip
     {0X4C, 0X5A, 0X49, 0X50, 4}, // lz
     {0X30, 0X37, 0X30, 0X37, 4}, //cpio
     {0X52, 0X61, 0X72, 0X21, 4}, // rar
@@ -45,13 +45,13 @@ const unsigned char magicref[1003][5] = {
     {0XFF, 0XFE, 0, 0, 2},       // txt utf 16
     {0XFE, 0XFF, 0, 0, 2},       // txt utf 16
     {0XFE, 0XFE, 0, 0, 2},       // txt utf 16
-    {0X0, 0X00, 0XFE, 0XFF, 2},       // txt utf 16
+    {0X0, 0X00, 0XFE, 0XFF, 4},       // txt utf 16
     {0X25, 0X50, 0X44, 0X46, 4}, // pdf
     {0X38, 0X42, 0X50, 0X53, 4}, // pdf
     {0X52, 0X49, 0X46, 0X46, 4}, // wav
     {0X52, 0X49, 0X46, 0X46, 4}, // avi
     {0XFF, 0, 0, 0, 1},          // mp3
-    {0X49, 0X44, 0X32, 0, 1},          // mp3
+    {0X49, 0X44, 0X32, 0, 3},          // mp3
     {0XC9, 0, 0, 0, 1},          // com
     {0X49, 0X44, 0X33, 0, 3},    // mp32
     {0X43, 0X44, 0X30, 0X30, 4}, //iso
@@ -99,19 +99,13 @@ bool checkMagicNumber(const std::string &filename)
     for (int i = 0; i < sizeof(magicref) / sizeof(magicref[0]); i++)
     {
         bool isSame = true;
-        for (int j = 0; j < magicref[i][4]; j++)
-        {
-            if (magic[j] != magicref[i][j])
-            {
-                isSame = false;
-                break;
-            }
-        }
-
-        if (isSame)
+        
+        int value=magicref[i][4];
+        if(memcmp(magic,magicref[i],2) == 0)
         {
             return true;
         }
+
     }
 
     return false;
@@ -120,7 +114,7 @@ bool checkMagicNumber(const std::string &filename)
 int main()
 {
     // Get the filename from the user
-    std::string filename = "Ransim//Scenarios//Archiver-TestFiles//MOCK_DATA1.csv.gz";
+    std::string filename = "Ransim//Scenarios//Mover-TestFiles//EncryptedFiles//c11.png.asr";
 
     // Check the magic number of the file
     bool validMagicNumber = checkMagicNumber(filename);
