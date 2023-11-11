@@ -1,0 +1,2637 @@
+2018-05-24 09:05:19,starting in C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver\
+2018-05-24 09:05:19,Processing 29 files
+2018-05-24 09:05:24,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\c10.png
+2018-05-24 09:05:24,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:24,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\c10.png
+2018-05-24 09:05:25,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\c11.png
+2018-05-24 09:05:25,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:25,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\c11.png
+2018-05-24 09:05:26,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\c12.png
+2018-05-24 09:05:26,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:26,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\c12.png
+2018-05-24 09:05:26,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\img10.jpg
+2018-05-24 09:05:26,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:26,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\img10.jpg
+2018-05-24 09:05:27,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\img11.jpg
+2018-05-24 09:05:27,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:27,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\img11.jpg
+2018-05-24 09:05:28,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\img12.jpg
+2018-05-24 09:05:28,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:28,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\img12.jpg
+2018-05-24 09:05:28,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\img20.jpg
+2018-05-24 09:05:28,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:28,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\img20.jpg
+2018-05-24 09:05:29,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\img21.jpg
+2018-05-24 09:05:29,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:29,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\img21.jpg
+2018-05-24 09:05:30,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\img22.jpg
+2018-05-24 09:05:30,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:30,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\img22.jpg
+2018-05-24 09:05:31,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\img30.jpg
+2018-05-24 09:05:31,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:31,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\img30.jpg
+2018-05-24 09:05:31,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\img31.jpg
+2018-05-24 09:05:31,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:31,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\img31.jpg
+2018-05-24 09:05:32,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\img32.jpg
+2018-05-24 09:05:32,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:32,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\img32.jpg
+2018-05-24 09:05:33,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA1.csv
+2018-05-24 09:05:33,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:33,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA1.csv
+2018-05-24 09:05:34,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA1.docx
+2018-05-24 09:05:34,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:34,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA1.docx
+2018-05-24 09:05:34,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA1.pdf
+2018-05-24 09:05:34,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:34,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA1.pdf
+2018-05-24 09:05:35,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA1.pptx
+2018-05-24 09:05:35,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:35,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA1.pptx
+2018-05-24 09:05:36,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA1.xlsx
+2018-05-24 09:05:36,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:36,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA1.xlsx
+2018-05-24 09:05:37,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA2.csv
+2018-05-24 09:05:37,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:37,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA2.csv
+2018-05-24 09:05:37,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA2.docx
+2018-05-24 09:05:37,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:37,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA2.docx
+2018-05-24 09:05:38,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA2.pdf
+2018-05-24 09:05:38,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:38,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA2.pdf
+2018-05-24 09:05:39,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA2.pptx
+2018-05-24 09:05:39,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:39,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA2.pptx
+2018-05-24 09:05:40,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA3.csv
+2018-05-24 09:05:40,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:40,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA3.csv
+2018-05-24 09:05:40,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA3.docx
+2018-05-24 09:05:40,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:40,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA3.docx
+2018-05-24 09:05:41,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA3.pdf
+2018-05-24 09:05:41,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:41,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA3.pdf
+2018-05-24 09:05:42,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA3.pptx
+2018-05-24 09:05:42,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:42,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA3.pptx
+2018-05-24 09:05:43,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA3.xlsx
+2018-05-24 09:05:43,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:43,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\MOCK_DATA3.xlsx
+2018-05-24 09:05:43,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\test1.docx
+2018-05-24 09:05:43,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:43,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\test1.docx
+2018-05-24 09:05:44,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\test2.docx
+2018-05-24 09:05:44,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:44,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\test2.docx
+2018-05-24 09:05:45,processing C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\test3.docx
+2018-05-24 09:05:45,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2018-05-24 09:05:45,processed C:\Users\TestAdmin\Documents\RanSim\TestDirectory\Scenarios\Archiver-TestFiles\test3.docx
+2018-05-24 09:06:15,finished
+2023-11-10 09:33:49,starting in C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver\
+2023-11-10 09:33:49,Processing 29 files
+2023-11-10 09:33:54,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\c10.png
+2023-11-10 09:33:54,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:33:54,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\c10.png
+2023-11-10 09:33:55,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\c11.png
+2023-11-10 09:33:55,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:33:55,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\c11.png
+2023-11-10 09:33:56,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\c12.png
+2023-11-10 09:33:56,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:33:56,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\c12.png
+2023-11-10 09:33:56,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img10.jpg
+2023-11-10 09:33:56,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:33:56,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img10.jpg
+2023-11-10 09:33:57,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img11.jpg
+2023-11-10 09:33:57,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:33:57,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img11.jpg
+2023-11-10 09:33:58,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img12.jpg
+2023-11-10 09:33:58,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:33:58,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img12.jpg
+2023-11-10 09:33:59,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img20.jpg
+2023-11-10 09:33:59,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:33:59,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img20.jpg
+2023-11-10 09:33:59,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img21.jpg
+2023-11-10 09:33:59,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:33:59,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img21.jpg
+2023-11-10 09:34:00,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img22.jpg
+2023-11-10 09:34:00,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:00,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img22.jpg
+2023-11-10 09:34:01,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img30.jpg
+2023-11-10 09:34:01,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:01,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img30.jpg
+2023-11-10 09:34:01,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img31.jpg
+2023-11-10 09:34:01,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:01,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img31.jpg
+2023-11-10 09:34:02,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img32.jpg
+2023-11-10 09:34:02,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:02,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img32.jpg
+2023-11-10 09:34:03,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.csv
+2023-11-10 09:34:03,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:03,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.csv
+2023-11-10 09:34:04,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.docx
+2023-11-10 09:34:04,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:04,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.docx
+2023-11-10 09:34:04,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pdf
+2023-11-10 09:34:04,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:04,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pdf
+2023-11-10 09:34:07,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pptx
+2023-11-10 09:34:07,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:07,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pptx
+2023-11-10 09:34:07,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.xlsx
+2023-11-10 09:34:07,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:07,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.xlsx
+2023-11-10 09:34:08,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.csv
+2023-11-10 09:34:08,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:08,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.csv
+2023-11-10 09:34:09,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.docx
+2023-11-10 09:34:09,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:09,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.docx
+2023-11-10 09:34:10,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pdf
+2023-11-10 09:34:10,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:10,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pdf
+2023-11-10 09:34:10,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pptx
+2023-11-10 09:34:10,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:10,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pptx
+2023-11-10 09:34:11,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.csv
+2023-11-10 09:34:11,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:11,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.csv
+2023-11-10 09:34:12,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.docx
+2023-11-10 09:34:12,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:12,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.docx
+2023-11-10 09:34:13,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pdf
+2023-11-10 09:34:13,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:13,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pdf
+2023-11-10 09:34:13,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pptx
+2023-11-10 09:34:13,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:13,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pptx
+2023-11-10 09:34:14,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.xlsx
+2023-11-10 09:34:14,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:14,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.xlsx
+2023-11-10 09:34:15,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\test1.docx
+2023-11-10 09:34:15,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:15,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\test1.docx
+2023-11-10 09:34:16,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\test2.docx
+2023-11-10 09:34:16,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:16,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\test2.docx
+2023-11-10 09:34:16,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\test3.docx
+2023-11-10 09:34:16,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 09:34:16,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\test3.docx
+2023-11-10 09:34:47,finished
+2023-11-10 16:03:26,starting in C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver\
+2023-11-10 16:03:26,Processing 29 files
+2023-11-10 16:03:31,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\c10.png
+2023-11-10 16:03:31,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:31,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\c10.png
+2023-11-10 16:03:32,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\c11.png
+2023-11-10 16:03:32,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:32,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\c11.png
+2023-11-10 16:03:33,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\c12.png
+2023-11-10 16:03:33,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:33,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\c12.png
+2023-11-10 16:03:34,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img10.jpg
+2023-11-10 16:03:34,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:34,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img10.jpg
+2023-11-10 16:03:35,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img11.jpg
+2023-11-10 16:03:35,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:35,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img11.jpg
+2023-11-10 16:03:36,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img12.jpg
+2023-11-10 16:03:36,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:36,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img12.jpg
+2023-11-10 16:03:37,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img20.jpg
+2023-11-10 16:03:37,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:37,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img20.jpg
+2023-11-10 16:03:38,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img21.jpg
+2023-11-10 16:03:38,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:38,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img21.jpg
+2023-11-10 16:03:39,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img22.jpg
+2023-11-10 16:03:39,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:39,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img22.jpg
+2023-11-10 16:03:40,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img30.jpg
+2023-11-10 16:03:40,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:40,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img30.jpg
+2023-11-10 16:03:41,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img31.jpg
+2023-11-10 16:03:41,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:41,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img31.jpg
+2023-11-10 16:03:42,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img32.jpg
+2023-11-10 16:03:42,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:42,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\img32.jpg
+2023-11-10 16:03:43,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.csv
+2023-11-10 16:03:43,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:43,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.csv
+2023-11-10 16:03:44,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.docx
+2023-11-10 16:03:44,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:44,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.docx
+2023-11-10 16:03:45,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pdf
+2023-11-10 16:03:45,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:45,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pdf
+2023-11-10 16:03:46,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pptx
+2023-11-10 16:03:46,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:46,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pptx
+2023-11-10 16:03:47,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.xlsx
+2023-11-10 16:03:47,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:47,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.xlsx
+2023-11-10 16:03:48,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.csv
+2023-11-10 16:03:48,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:48,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.csv
+2023-11-10 16:03:49,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.docx
+2023-11-10 16:03:49,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:49,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.docx
+2023-11-10 16:03:50,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pdf
+2023-11-10 16:03:50,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:50,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pdf
+2023-11-10 16:03:51,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pptx
+2023-11-10 16:03:51,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:51,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pptx
+2023-11-10 16:03:52,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.csv
+2023-11-10 16:03:52,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:52,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.csv
+2023-11-10 16:03:53,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.docx
+2023-11-10 16:03:53,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:53,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.docx
+2023-11-10 16:03:54,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pdf
+2023-11-10 16:03:54,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:54,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pdf
+2023-11-10 16:03:55,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pptx
+2023-11-10 16:03:56,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:56,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pptx
+2023-11-10 16:03:57,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.xlsx
+2023-11-10 16:03:57,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:57,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.xlsx
+2023-11-10 16:03:58,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\test1.docx
+2023-11-10 16:03:58,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:58,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\test1.docx
+2023-11-10 16:03:59,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\test2.docx
+2023-11-10 16:03:59,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:03:59,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\test2.docx
+2023-11-10 16:04:00,processing C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\test3.docx
+2023-11-10 16:04:00,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-10 16:04:00,processed C:\Users\TestAdmin\Desktop\EO\Ransim\Scenarios\Archiver-TestFiles\test3.docx
+2023-11-10 16:04:31,finished
+2023-11-11 11:47:54,starting in C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver\
+2023-11-11 11:47:54,Processing 29 files
+2023-11-11 11:47:59,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c10.png
+2023-11-11 11:47:59,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:47:59,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c10.png
+2023-11-11 11:48:00,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c11.png
+2023-11-11 11:48:00,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:00,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c11.png
+2023-11-11 11:48:00,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c12.png
+2023-11-11 11:48:00,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:00,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c12.png
+2023-11-11 11:48:01,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img10.jpg
+2023-11-11 11:48:01,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:01,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img10.jpg
+2023-11-11 11:48:02,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img11.jpg
+2023-11-11 11:48:02,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:02,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img11.jpg
+2023-11-11 11:48:02,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img12.jpg
+2023-11-11 11:48:02,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:02,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img12.jpg
+2023-11-11 11:48:03,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img20.jpg
+2023-11-11 11:48:03,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:03,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img20.jpg
+2023-11-11 11:48:04,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img21.jpg
+2023-11-11 11:48:04,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:04,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img21.jpg
+2023-11-11 11:48:05,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img22.jpg
+2023-11-11 11:48:05,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:05,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img22.jpg
+2023-11-11 11:48:05,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img30.jpg
+2023-11-11 11:48:05,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:05,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img30.jpg
+2023-11-11 11:48:06,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img31.jpg
+2023-11-11 11:48:06,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:06,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img31.jpg
+2023-11-11 11:48:07,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img32.jpg
+2023-11-11 11:48:07,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:07,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img32.jpg
+2023-11-11 11:48:08,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.csv
+2023-11-11 11:48:08,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:08,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.csv
+2023-11-11 11:48:08,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.docx
+2023-11-11 11:48:08,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:08,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.docx
+2023-11-11 11:48:09,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pdf
+2023-11-11 11:48:09,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:09,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pdf
+2023-11-11 11:48:10,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pptx
+2023-11-11 11:48:10,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:10,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pptx
+2023-11-11 11:48:11,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.xlsx
+2023-11-11 11:48:11,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:11,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.xlsx
+2023-11-11 11:48:11,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.csv
+2023-11-11 11:48:11,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:11,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.csv
+2023-11-11 11:48:12,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.docx
+2023-11-11 11:48:12,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:12,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.docx
+2023-11-11 11:48:13,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pdf
+2023-11-11 11:48:13,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:13,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pdf
+2023-11-11 11:48:13,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pptx
+2023-11-11 11:48:14,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:14,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pptx
+2023-11-11 11:48:14,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.csv
+2023-11-11 11:48:14,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:14,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.csv
+2023-11-11 11:48:15,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.docx
+2023-11-11 11:48:15,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:15,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.docx
+2023-11-11 11:48:16,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pdf
+2023-11-11 11:48:16,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:16,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pdf
+2023-11-11 11:48:16,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pptx
+2023-11-11 11:48:17,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:17,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pptx
+2023-11-11 11:48:17,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.xlsx
+2023-11-11 11:48:17,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:17,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.xlsx
+2023-11-11 11:48:18,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test1.docx
+2023-11-11 11:48:18,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:18,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test1.docx
+2023-11-11 11:48:19,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test2.docx
+2023-11-11 11:48:19,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:19,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test2.docx
+2023-11-11 11:48:19,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test3.docx
+2023-11-11 11:48:19,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:48:19,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test3.docx
+2023-11-11 11:48:50,finished
+2023-11-11 11:49:02,starting in C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver\
+2023-11-11 11:49:02,Processing 29 files
+2023-11-11 11:49:07,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c10.png
+2023-11-11 11:49:07,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:07,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c10.png
+2023-11-11 11:49:08,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c11.png
+2023-11-11 11:49:08,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:08,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c11.png
+2023-11-11 11:49:09,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c12.png
+2023-11-11 11:49:09,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:09,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c12.png
+2023-11-11 11:49:10,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img10.jpg
+2023-11-11 11:49:10,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:10,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img10.jpg
+2023-11-11 11:49:10,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img11.jpg
+2023-11-11 11:49:10,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:10,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img11.jpg
+2023-11-11 11:49:11,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img12.jpg
+2023-11-11 11:49:11,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:11,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img12.jpg
+2023-11-11 11:49:12,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img20.jpg
+2023-11-11 11:49:12,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:12,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img20.jpg
+2023-11-11 11:49:13,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img21.jpg
+2023-11-11 11:49:13,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:13,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img21.jpg
+2023-11-11 11:49:13,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img22.jpg
+2023-11-11 11:49:13,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:13,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img22.jpg
+2023-11-11 11:49:14,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img30.jpg
+2023-11-11 11:49:14,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:14,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img30.jpg
+2023-11-11 11:49:15,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img31.jpg
+2023-11-11 11:49:15,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:15,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img31.jpg
+2023-11-11 11:49:15,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img32.jpg
+2023-11-11 11:49:15,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:15,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img32.jpg
+2023-11-11 11:49:16,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.csv
+2023-11-11 11:49:16,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:16,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.csv
+2023-11-11 11:49:17,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.docx
+2023-11-11 11:49:17,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:17,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.docx
+2023-11-11 11:49:18,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pdf
+2023-11-11 11:49:18,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:18,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pdf
+2023-11-11 11:49:18,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pptx
+2023-11-11 11:49:18,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:18,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pptx
+2023-11-11 11:49:19,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.xlsx
+2023-11-11 11:49:19,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:19,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.xlsx
+2023-11-11 11:49:20,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.csv
+2023-11-11 11:49:20,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:20,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.csv
+2023-11-11 11:49:21,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.docx
+2023-11-11 11:49:21,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:21,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.docx
+2023-11-11 11:49:21,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pdf
+2023-11-11 11:49:21,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:21,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pdf
+2023-11-11 11:49:22,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pptx
+2023-11-11 11:49:22,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:22,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pptx
+2023-11-11 11:49:23,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.csv
+2023-11-11 11:49:23,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:23,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.csv
+2023-11-11 11:49:24,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.docx
+2023-11-11 11:49:24,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:24,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.docx
+2023-11-11 11:49:24,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pdf
+2023-11-11 11:49:24,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:24,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pdf
+2023-11-11 11:49:25,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pptx
+2023-11-11 11:49:25,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:25,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pptx
+2023-11-11 11:49:26,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.xlsx
+2023-11-11 11:49:26,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:26,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.xlsx
+2023-11-11 11:49:27,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test1.docx
+2023-11-11 11:49:27,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:27,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test1.docx
+2023-11-11 11:49:27,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test2.docx
+2023-11-11 11:49:27,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:27,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test2.docx
+2023-11-11 11:49:28,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test3.docx
+2023-11-11 11:49:28,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:49:28,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test3.docx
+2023-11-11 11:49:59,finished
+2023-11-11 11:51:20,starting in C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver\
+2023-11-11 11:51:20,Processing 29 files
+2023-11-11 11:51:25,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c10.png
+2023-11-11 11:51:25,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:25,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c10.png
+2023-11-11 11:51:25,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c11.png
+2023-11-11 11:51:25,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:25,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c11.png
+2023-11-11 11:51:26,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c12.png
+2023-11-11 11:51:26,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:26,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c12.png
+2023-11-11 11:51:27,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img10.jpg
+2023-11-11 11:51:27,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:27,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img10.jpg
+2023-11-11 11:51:27,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img11.jpg
+2023-11-11 11:51:27,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:27,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img11.jpg
+2023-11-11 11:51:28,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img12.jpg
+2023-11-11 11:51:28,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:28,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img12.jpg
+2023-11-11 11:51:29,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img20.jpg
+2023-11-11 11:51:29,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:29,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img20.jpg
+2023-11-11 11:51:30,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img21.jpg
+2023-11-11 11:51:30,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:30,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img21.jpg
+2023-11-11 11:51:30,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img22.jpg
+2023-11-11 11:51:30,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:30,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img22.jpg
+2023-11-11 11:51:31,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img30.jpg
+2023-11-11 11:51:31,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:31,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img30.jpg
+2023-11-11 11:51:32,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img31.jpg
+2023-11-11 11:51:32,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:32,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img31.jpg
+2023-11-11 11:51:33,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img32.jpg
+2023-11-11 11:51:33,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:33,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img32.jpg
+2023-11-11 11:51:33,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.csv
+2023-11-11 11:51:33,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:33,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.csv
+2023-11-11 11:51:34,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.docx
+2023-11-11 11:51:34,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:34,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.docx
+2023-11-11 11:51:35,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pdf
+2023-11-11 11:51:35,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:35,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pdf
+2023-11-11 11:51:36,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pptx
+2023-11-11 11:51:36,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:36,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pptx
+2023-11-11 11:51:36,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.xlsx
+2023-11-11 11:51:36,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:36,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.xlsx
+2023-11-11 11:51:37,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.csv
+2023-11-11 11:51:37,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:37,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.csv
+2023-11-11 11:51:38,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.docx
+2023-11-11 11:51:38,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:38,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.docx
+2023-11-11 11:51:39,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pdf
+2023-11-11 11:51:39,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:39,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pdf
+2023-11-11 11:51:39,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pptx
+2023-11-11 11:51:39,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:39,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pptx
+2023-11-11 11:51:40,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.csv
+2023-11-11 11:51:40,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:40,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.csv
+2023-11-11 11:51:41,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.docx
+2023-11-11 11:51:41,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:41,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.docx
+2023-11-11 11:51:42,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pdf
+2023-11-11 11:51:42,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:42,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pdf
+2023-11-11 11:51:42,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pptx
+2023-11-11 11:51:42,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:42,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pptx
+2023-11-11 11:51:43,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.xlsx
+2023-11-11 11:51:43,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:43,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.xlsx
+2023-11-11 11:51:44,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test1.docx
+2023-11-11 11:51:44,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:44,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test1.docx
+2023-11-11 11:51:44,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test2.docx
+2023-11-11 11:51:44,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:44,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test2.docx
+2023-11-11 11:51:45,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test3.docx
+2023-11-11 11:51:45,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:51:45,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test3.docx
+2023-11-11 11:51:55,starting in C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver\
+2023-11-11 11:51:55,Processing 29 files
+2023-11-11 11:52:00,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c10.png
+2023-11-11 11:52:00,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:00,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c10.png
+2023-11-11 11:52:01,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c11.png
+2023-11-11 11:52:01,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:01,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c11.png
+2023-11-11 11:52:02,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c12.png
+2023-11-11 11:52:02,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:02,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c12.png
+2023-11-11 11:52:02,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img10.jpg
+2023-11-11 11:52:02,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:02,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img10.jpg
+2023-11-11 11:52:03,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img11.jpg
+2023-11-11 11:52:03,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:03,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img11.jpg
+2023-11-11 11:52:04,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img12.jpg
+2023-11-11 11:52:04,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:04,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img12.jpg
+2023-11-11 11:52:04,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img20.jpg
+2023-11-11 11:52:04,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:04,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img20.jpg
+2023-11-11 11:52:05,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img21.jpg
+2023-11-11 11:52:05,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:05,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img21.jpg
+2023-11-11 11:52:06,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img22.jpg
+2023-11-11 11:52:06,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:06,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img22.jpg
+2023-11-11 11:52:07,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img30.jpg
+2023-11-11 11:52:07,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:07,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img30.jpg
+2023-11-11 11:52:07,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img31.jpg
+2023-11-11 11:52:07,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:07,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img31.jpg
+2023-11-11 11:52:08,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img32.jpg
+2023-11-11 11:52:08,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:08,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img32.jpg
+2023-11-11 11:52:09,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.csv
+2023-11-11 11:52:09,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:09,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.csv
+2023-11-11 11:52:10,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.docx
+2023-11-11 11:52:10,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:10,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.docx
+2023-11-11 11:52:10,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pdf
+2023-11-11 11:52:10,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:10,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pdf
+2023-11-11 11:52:11,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pptx
+2023-11-11 11:52:11,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:11,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pptx
+2023-11-11 11:52:12,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.xlsx
+2023-11-11 11:52:12,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:12,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.xlsx
+2023-11-11 11:52:12,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.csv
+2023-11-11 11:52:12,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:12,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.csv
+2023-11-11 11:52:13,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.docx
+2023-11-11 11:52:13,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:13,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.docx
+2023-11-11 11:52:14,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pdf
+2023-11-11 11:52:14,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:14,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pdf
+2023-11-11 11:52:15,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pptx
+2023-11-11 11:52:15,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:15,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pptx
+2023-11-11 11:52:15,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.csv
+2023-11-11 11:52:15,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:15,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.csv
+2023-11-11 11:52:16,finished
+2023-11-11 11:52:16,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.docx
+2023-11-11 11:52:16,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:16,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.docx
+2023-11-11 11:52:17,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pdf
+2023-11-11 11:52:17,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:17,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pdf
+2023-11-11 11:52:18,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pptx
+2023-11-11 11:52:18,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:18,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pptx
+2023-11-11 11:52:18,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.xlsx
+2023-11-11 11:52:18,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:18,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.xlsx
+2023-11-11 11:52:19,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test1.docx
+2023-11-11 11:52:19,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:19,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test1.docx
+2023-11-11 11:52:20,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test2.docx
+2023-11-11 11:52:20,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:20,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test2.docx
+2023-11-11 11:52:21,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test3.docx
+2023-11-11 11:52:21,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:52:21,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test3.docx
+2023-11-11 11:52:51,finished
+2023-11-11 11:55:15,starting in C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver\
+2023-11-11 11:55:15,Processing 29 files
+2023-11-11 11:55:20,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c10.png
+2023-11-11 11:55:20,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:20,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c10.png
+2023-11-11 11:55:21,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c11.png
+2023-11-11 11:55:21,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:21,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c11.png
+2023-11-11 11:55:22,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c12.png
+2023-11-11 11:55:22,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:22,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c12.png
+2023-11-11 11:55:23,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img10.jpg
+2023-11-11 11:55:23,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:23,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img10.jpg
+2023-11-11 11:55:24,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img11.jpg
+2023-11-11 11:55:24,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:24,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img11.jpg
+2023-11-11 11:55:25,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img12.jpg
+2023-11-11 11:55:25,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:25,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img12.jpg
+2023-11-11 11:55:26,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img20.jpg
+2023-11-11 11:55:26,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:26,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img20.jpg
+2023-11-11 11:55:27,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img21.jpg
+2023-11-11 11:55:27,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:27,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img21.jpg
+2023-11-11 11:55:28,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img22.jpg
+2023-11-11 11:55:28,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:28,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img22.jpg
+2023-11-11 11:55:28,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img30.jpg
+2023-11-11 11:55:29,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:29,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img30.jpg
+2023-11-11 11:55:29,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img31.jpg
+2023-11-11 11:55:30,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:30,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img31.jpg
+2023-11-11 11:55:30,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img32.jpg
+2023-11-11 11:55:31,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:31,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img32.jpg
+2023-11-11 11:55:31,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.csv
+2023-11-11 11:55:32,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:32,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.csv
+2023-11-11 11:55:32,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.docx
+2023-11-11 11:55:33,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:33,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.docx
+2023-11-11 11:55:33,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pdf
+2023-11-11 11:55:34,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:34,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pdf
+2023-11-11 11:55:34,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pptx
+2023-11-11 11:55:35,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:35,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pptx
+2023-11-11 11:55:35,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.xlsx
+2023-11-11 11:55:36,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:36,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.xlsx
+2023-11-11 11:55:36,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.csv
+2023-11-11 11:55:37,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:37,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.csv
+2023-11-11 11:55:37,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.docx
+2023-11-11 11:55:38,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:38,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.docx
+2023-11-11 11:55:38,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pdf
+2023-11-11 11:55:39,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:39,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pdf
+2023-11-11 11:55:39,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pptx
+2023-11-11 11:55:40,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:40,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pptx
+2023-11-11 11:55:40,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.csv
+2023-11-11 11:55:41,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:41,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.csv
+2023-11-11 11:55:41,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.docx
+2023-11-11 11:55:42,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:42,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.docx
+2023-11-11 11:55:42,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pdf
+2023-11-11 11:55:42,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:42,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pdf
+2023-11-11 11:55:43,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pptx
+2023-11-11 11:55:44,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:44,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pptx
+2023-11-11 11:55:44,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.xlsx
+2023-11-11 11:55:45,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:45,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.xlsx
+2023-11-11 11:55:45,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test1.docx
+2023-11-11 11:55:45,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:45,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test1.docx
+2023-11-11 11:55:46,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test2.docx
+2023-11-11 11:55:46,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:46,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test2.docx
+2023-11-11 11:55:47,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test3.docx
+2023-11-11 11:55:47,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 11:55:47,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test3.docx
+2023-11-11 11:56:18,finished
+2023-11-11 12:02:40,starting in C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver\
+2023-11-11 12:02:40,Processing 29 files
+2023-11-11 12:02:45,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c10.png
+2023-11-11 12:02:46,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:02:46,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c10.png
+2023-11-11 12:02:46,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c11.png
+2023-11-11 12:02:47,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:02:47,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c11.png
+2023-11-11 12:02:47,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c12.png
+2023-11-11 12:02:48,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:02:48,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\c12.png
+2023-11-11 12:02:48,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img10.jpg
+2023-11-11 12:02:49,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:02:49,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img10.jpg
+2023-11-11 12:02:49,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img11.jpg
+2023-11-11 12:02:49,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:02:49,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img11.jpg
+2023-11-11 12:02:50,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img12.jpg
+2023-11-11 12:02:51,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:02:51,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img12.jpg
+2023-11-11 12:02:52,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img20.jpg
+2023-11-11 12:02:52,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:02:52,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img20.jpg
+2023-11-11 12:02:53,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img21.jpg
+2023-11-11 12:02:53,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:02:53,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img21.jpg
+2023-11-11 12:02:53,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img22.jpg
+2023-11-11 12:02:53,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:02:53,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img22.jpg
+2023-11-11 12:02:54,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img30.jpg
+2023-11-11 12:02:55,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:02:55,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img30.jpg
+2023-11-11 12:02:55,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img31.jpg
+2023-11-11 12:02:56,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:02:56,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img31.jpg
+2023-11-11 12:02:56,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img32.jpg
+2023-11-11 12:02:57,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:02:57,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\img32.jpg
+2023-11-11 12:02:57,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.csv
+2023-11-11 12:02:58,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:02:58,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.csv
+2023-11-11 12:02:58,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.docx
+2023-11-11 12:02:59,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:02:59,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.docx
+2023-11-11 12:03:00,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pdf
+2023-11-11 12:03:00,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:03:00,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pdf
+2023-11-11 12:03:01,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pptx
+2023-11-11 12:03:01,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:03:01,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.pptx
+2023-11-11 12:03:02,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.xlsx
+2023-11-11 12:03:02,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:03:02,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA1.xlsx
+2023-11-11 12:03:02,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.csv
+2023-11-11 12:03:03,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:03:03,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.csv
+2023-11-11 12:03:03,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.docx
+2023-11-11 12:03:04,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:03:04,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.docx
+2023-11-11 12:03:04,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pdf
+2023-11-11 12:03:05,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:03:05,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pdf
+2023-11-11 12:03:05,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pptx
+2023-11-11 12:03:06,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:03:06,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA2.pptx
+2023-11-11 12:03:06,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.csv
+2023-11-11 12:03:07,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:03:07,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.csv
+2023-11-11 12:03:07,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.docx
+2023-11-11 12:03:08,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:03:08,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.docx
+2023-11-11 12:03:08,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pdf
+2023-11-11 12:03:09,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:03:09,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pdf
+2023-11-11 12:03:09,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pptx
+2023-11-11 12:03:10,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:03:10,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.pptx
+2023-11-11 12:03:10,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.xlsx
+2023-11-11 12:03:10,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:03:10,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\MOCK_DATA3.xlsx
+2023-11-11 12:03:11,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test1.docx
+2023-11-11 12:03:12,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:03:12,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test1.docx
+2023-11-11 12:03:12,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test2.docx
+2023-11-11 12:03:13,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:03:13,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test2.docx
+2023-11-11 12:03:13,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test3.docx
+2023-11-11 12:03:14,Cannot access a closed file.
+   at System.IO.__Error.FileNotOpen()
+   at System.IO.FileStream.Flush(Boolean flushToDisk)
+   at (Object )
+   at 
+ .
+ .
+﻿(String p1)
+2023-11-11 12:03:14,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Archiver-TestFiles\test3.docx
+2023-11-11 12:03:44,finished

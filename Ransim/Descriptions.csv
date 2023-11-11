@@ -1,0 +1,14 @@
+Archiver^			Simply archives files using gzip algorithm. This scenario should not be blocked!
+Remover^			Simply deletes files and does not create any file. This scenario should not be blocked!
+
+Collaborator^		Encrypts files similarly to a recent version of Critroni. However, it relies on different processes for file enumeration, movement and deletion.
+CritroniVariant^	Simulates the behavior of a recent version of Critroni ransomware.
+InsideCryptor^		Encrypts files using strong encryption and overwrites most of the content of the original files with the encrypted data.
+LockyVariant^		Simulates the behavior of a recent version of Locky ransomware.
+Mover^				Encrypts files in a different folder using strong encryption and safely deletes the original files.
+StrongCryptor^		Encrypts files using strong encryption and safely deletes the original files.
+StrongCryptorFast^	Encrypts files using strong encryption and deletes the original files.
+StrongCryptorNet^	Encrypts files using strong encryption and deletes the original files. It also simulates sending the encryption key to a server using an HTTP connection.
+ThorVariant^		Simulates the behavior of a recent version of Thor ransomware.
+VirlockVariant^		Simulates the file activity of a common version of Virlock ransomware.
+WeakCryptor^		Encrypts files using weak encryption and deletes the original files.
