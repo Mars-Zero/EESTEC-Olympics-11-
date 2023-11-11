@@ -54,7 +54,28 @@ const unsigned char magicref[1003][5] = {
     {0X49, 0X44, 0X32, 0, 1},          // mp3
     {0XC9, 0, 0, 0, 1},          // com
     {0X49, 0X44, 0X33, 0, 3},    // mp32
-    {0X43, 0X44, 0X30, 0X30, 4}, //
+    {0X43, 0X44, 0X30, 0X30, 4}, //iso
+    {0X00, 0XCF, 0X11, 0XE0, 4}, //docx/ppt
+    {0X50, 0X4D, 0X4F, 0X43, 4}, //docx/ppt
+    {0X75, 0X73, 0X74, 0X61, 4},       // tar
+    {0X4F, 0X41, 0X52, 0, 3},       // wav
+    {0X37, 0X7A, 0XBC, 0XAF, 4},    // 7z
+    {0XFD, 0X37, 0X7A, 0X58, 4},    // tart
+    {0X2D, 0X2D, 0X2D, 0X2D, 4},    // tart
+    {0X3C, 0X3F, 0X78, 0X6D, 4},    // tart
+    {0X3C, 0X00, 0X3F, 0X00, 4},    // tart
+    {0X00, 0X3C, 0X00, 0X3F, 4},    // tart
+    {0X3C, 0X00, 0X00, 0X00, 4},    // tart
+    {0X00, 0X00, 0X00, 0X3C, 4},    // tart
+    {0X7B, 0X5C, 0X72, 0X74, 4},    // tart
+    {0X66, 0X74, 0X79, 0X70, 4},    // tart
+    {0X78, 0X01, 0X78, 0X5E, 4},    // tart
+    {0X78, 0XDA, 0, 0, 2},    // tart
+    {0X78, 0X7D, 0, 0, 2},    // tart
+    {0X78, 0XBB, 0, 0, 2},    // tart
+    {0X78, 0XF9, 0, 0, 2},    // tart
+    {0X46, 0X4C, 0X56, 0, 3},    // tart
+    {0X72, 0X65, 0X67, 0X66, 4},    // tart
 
 };
 
@@ -115,26 +136,5 @@ int main()
         std::cout << "The file does not have the correct magic number."
                   << "\n";
     }
-
-    /* std::ifstream file("example.jpg", std::ios::binary);
-     if (file)
-     {
-         std::vector<char> buffer(4);
-         file.read(buffer.data(), 4);
-         std::vector<char> jpegMagicNumber = {0xFF, 0xD8, 0xFF, 0xE0};
-         if (hasMagicNumber(buffer, jpegMagicNumber))
-         {
-             std::cout << "JPEG image" << std::endl;
-         }
-         else
-         {
-             std::cout << "Unknown file type" << std::endl;
-         }
-         file.close();
-     }
-     else
-     {
-         std::cout << "Failed to open the file" << std::endl;
-     }*/
     return 0;
 }
