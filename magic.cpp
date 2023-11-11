@@ -1,44 +1,46 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
+#include <cstring>
 #include <string>
 
-const unsigned char magicref[1003][4] = {
-    {0xFF, 0xD8, 0xFF, 0xE0}, // jpg
-    {0XFF, 0XD8, 0XFF, 0XDB}, // jpg
-    {0XFF, 0XD8, 0XFF, 0XEE}, // jpg
-    {0XFF, 0XD8, 0XFF, 0XE1}, // jpg
-    {0XFF, 0XD8, 0XFF, 0XE0}, // jpg
-    {0X53, 0X51, 0X4C, 0X69}, // sql
-    {0X53, 0X50, 0X30, 0X31}, // bin
-    {0X69, 0X63, 0X6e, 0X73}, // icns
-    {0X00, 0X00, 0X01, 0X00}, // icn
-    {0X1F, 0X9D},             // tar
-    {0X2D, 0X68, 0X6C, 0X30}, // lzh
-    {0X2D, 0X68, 0X6C, 0X35}, // lzh
-    {0X42, 0X41, 0X43, 0X4B}, // bac
-    {0X42, 0X5A, 0X68},       // bz2
-    {0X47, 0X49, 0X46, 0X38}, // gif
-    {0X49, 0X49, 0X2A, 0X00}, // cr2
-    {0X80, 0X2A, 0X5F, 0XD7}, // cin
-    {0X42, 0X50, 0X47, 0XFB}, // bpg
-    {0X42, 0X50, 0X47, 0XFB}, // bpg
-    {0X00, 0X00, 0X00, 0X0C}, // jpeg 2000
-    {0XFF, 0X4F, 0XFF, 0X51}, // jpeg 2000
-    {0X4D, 0X5A},             // exe
-    {0X5A, 0X4D},             // exe
-    {0X50, 0X4B, 0X03},       // zip
-    {0X52, 0X61, 0X72, 0X21}, // rar
-    {0X89, 0X50, 0X4E, 0X47}, // png
-    {0XCA, 0XFE, 0XBA, 0XBE}, // class
-    {0XEF, 0XBB, 0XBF},       // txt utf 8
-    {0XFF, 0XFE},             // txt utf 16
-    {0XFF, 0XFF},             // txt utf 16
-    {0X52, 0X49, 0X46, 0X46}, // wav
-    {0X52, 0X49, 0X46, 0X46}, // avi
-    {0XFF},                   // mp3
-    {0X49, 0X44, 0X33},       // mp32
-    {0X43, 0X44, 0X30, 0X30}, //
+const unsigned char magicref[1003][5] = {
+    {0xFF, 0xD8, 0xFF, 0xE0, 4}, // jpg
+    {0XFF, 0XD8, 0XFF, 0XDB, 4}, // jpg
+    {0XFF, 0XD8, 0XFF, 0XEE, 4}, // jpg
+    {0XFF, 0XD8, 0XFF, 0XE1, 4}, // jpg
+    {0XFF, 0XD8, 0XFF, 0XE0, 4}, // jpg
+    {0X53, 0X51, 0X4C, 0X69, 4}, // sql
+    {0X53, 0X50, 0X30, 0X31, 4}, // bin
+    {0X69, 0X63, 0X6e, 0X73, 4}, // icns
+    {0X00, 0X00, 0, 0, 2},       // icn
+    {0X1F, 0X9D, 0, 0, 2},       // tar
+    {0X1F, 0X8B, 0X08, 0X00, 4}, // tar gz
+    {0X2D, 0X68, 0X6C, 0X30, 4}, // lzh
+    {0X2D, 0X68, 0X6C, 0X35, 4}, // lzh
+    {0X42, 0X41, 0X43, 0X4B, 4}, // bac
+    {0X42, 0X5A, 0X68, 0, 3},    // bz2
+    {0X47, 0X49, 0X46, 0X38, 4}, // gif
+    {0X49, 0X49, 0X2A, 0X00, 4}, // cr2
+    {0X80, 0X2A, 0X5F, 0XD7, 4}, // cin
+    {0X42, 0X50, 0X47, 0XFB, 4}, // bpg
+    {0X42, 0X50, 0X47, 0XFB, 4}, // bpg
+    {0X00, 0X00, 0X00, 0X0C, 4}, // jpeg 2000
+    {0XFF, 0X4F, 0XFF, 0X51, 4}, // jpeg 2000
+    {0X4D, 0X5A, 0, 0, 2},       // exe
+    {0X5A, 0X4D, 0, 0, 2},       // exe
+    {0X50, 0X4B, 0X03, 3},       // zip
+    {0X52, 0X61, 0X72, 0X21, 4}, // rar
+    {0X89, 0X50, 0X4E, 0X47, 4}, // png
+    {0XCA, 0XFE, 0XBA, 0XBE, 4}, // class
+    {0XEF, 0XBB, 0XBF, 0, 3},    // txt utf 8
+    {0XFF, 0XFE, 0, 0, 2},       // txt utf 16
+    {0XFF, 0XFF, 0, 0, 2},       // txt utf 16
+    {0X52, 0X49, 0X46, 0X46, 4}, // wav
+    {0X52, 0X49, 0X46, 0X46, 4}, // avi
+    {0XFF, 0, 0, 0, 1},          // mp3
+    {0X49, 0X44, 0X33, 0, 3},    // mp32
+    {0X43, 0X44, 0X30, 0X30, 4}, //
 
 };
 
@@ -59,12 +61,19 @@ bool checkMagicNumber(const std::string &filename)
     file.close();
 
     // Compare the magic number to the reference magic number
-    bool result = false;
-    printf("%d\n", sizeof(magicref) / sizeof(magicref[0]));
     for (int i = 0; i < sizeof(magicref) / sizeof(magicref[0]); i++)
     {
+        bool isSame = true;
+        for (int j = 0; j < magicref[i][4]; j++)
+        {
+            if (magic[j] != magicref[i][j])
+            {
+                isSame = false;
+                break;
+            }
+        }
 
-        if (memcmp(magic, magicref[i], sizeof(magicref[i])) == 0)
+        if (isSame)
         {
             return true;
         }
@@ -76,7 +85,7 @@ bool checkMagicNumber(const std::string &filename)
 int main()
 {
     // Get the filename from the user
-    std::string filename = "test.txt";
+    std::string filename = "Ransim//Scenarios//Archiver-TestFiles//MOCK_DATA1.csv.gz";
 
     // Check the magic number of the file
     bool validMagicNumber = checkMagicNumber(filename);
