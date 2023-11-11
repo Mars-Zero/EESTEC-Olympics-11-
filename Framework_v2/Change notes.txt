@@ -1,0 +1,2 @@
+- Am adaugat output in consola pentru EO11TesterFramework.exe
+- Am adaugat optiunea --no_testbed_cleanup pentru EO11TesterFramework.exe, optiune care opreste stergerea testbed-ului criptat la finalul rularii unui ransomware

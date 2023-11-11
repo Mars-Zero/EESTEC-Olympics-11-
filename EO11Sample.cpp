@@ -118,11 +118,15 @@ void print_notif(Notification *notification)
     std::wcout << std::endl;
 }
 
-void print_notifications(uint32_t processID)
+void print_notifications()
 {
-    for (auto notif : myMap[processID])
-    {
-        print_notif(notif);
+    for (auto m : myMap) {
+        for (auto notif : myMap[m->first])
+        {
+            print_notif(notif);
+        }
+        
+        std::wcout << std::endl;
     }
 }
 
@@ -137,6 +141,7 @@ void Callback(struct Notification *notification, void *ctx)
         break;
     case NotificationType::TEST_END:
         std::wcout << L"--------TEST_END--------" << std::endl;
+        print_notifications();
         break;
     case NotificationType::CLOSE_FILE:
     {
