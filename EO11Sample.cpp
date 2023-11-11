@@ -1,5 +1,6 @@
 #include <Windows.h>
 #include <iostream>
+#include <cstdint>
 #include "EO11.h"
 
 void Callback(const struct Notification* notification, void* ctx)
