@@ -252,24 +252,7 @@ std::unordered_map<uint32_t, std::pair<double, int>> myMap;
 std::unordered_map<uint32_t, bool> pidAccesat;
 std::unordered_map<uint64_t, double> files;
 std::unordered_map<uint32_t, uint32_t> mapChildToParent;
-std::unordered_map<uint32_t, std::vector<uint32_t>> mapParentToChildren;
 
-void dfs(uint32_t node)
-{
-
-    pidAccesat[node] = true;
-    std::cout << "RAPORTAT  " << node << "\n";
-    EO11NotifyDetectionOnPID_t(processId);
-
-    if (mapParentToChildren.find(node) == mapParentToChildren.end())
-    {
-        return;
-    }
-
-    for (auto child: mapParentToChildren[node]) {
-        dfs(child);
-    }
-}
 std::mutex mtx;
 const double threshhold = 50;
 const int threshgold_nr_files = 5;
@@ -298,7 +281,7 @@ void testFile(std::string path, uint32_t processId, uint64_t fileId)
     // std::cout << "===================================================\n";
 
     double resultOfPiVerif = detectEcryption(path);
-    mtx.lock();
+        mtx.lock();
 
     if (pidAccesat.find(processId) != pidAccesat.end())
     {

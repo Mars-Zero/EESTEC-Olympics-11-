@@ -358,3 +358,20 @@
 2023-11-11 16:27:19,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\test3.docx.asr
 2023-11-11 16:27:20,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\test3.docx
 2023-11-11 16:27:50,finished
+2023-11-12 09:10:15,starting in C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover\
+2023-11-12 09:10:15,Processing 29 files
+2023-11-12 09:10:20,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\c10.png
+2023-11-12 09:10:20,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\c10.png.asr
+2023-11-12 09:10:21,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\c10.png
+2023-11-12 09:10:21,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\c11.png
+2023-11-12 09:10:21,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\c11.png.asr
+2023-11-12 09:10:21,Error processing file:C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\c11.png - The process cannot access the file 'C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\c11.png' because it is being used by another process.
+2023-11-12 09:10:21,The process cannot access the file 'C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\c11.png' because it is being used by another process.
+   at 
+ .
+ .
+﻿(String p1)
+   at 
+ .
+ .	
+()
