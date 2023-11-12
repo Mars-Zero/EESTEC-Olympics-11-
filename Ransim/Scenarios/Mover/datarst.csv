@@ -389,3 +389,107 @@
  .
  .	
 ()
+2023-11-12 09:46:21,starting in C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover\
+2023-11-12 09:46:21,Processing 29 files
+2023-11-12 09:46:26,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\c10.png
+2023-11-12 09:46:26,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\c10.png.asr
+2023-11-12 09:46:26,Error processing file:C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\c10.png - The process cannot access the file 'C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\c10.png' because it is being used by another process.
+2023-11-12 09:46:26,The process cannot access the file 'C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\c10.png' because it is being used by another process.
+   at 
+ .
+ .
+﻿(String p1)
+   at 
+ .
+ .	
+()
+2023-11-12 09:47:07,starting in C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover\
+2023-11-12 09:47:07,Processing 29 files
+2023-11-12 09:47:12,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\c10.png
+2023-11-12 09:47:12,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\c10.png.asr
+2023-11-12 09:47:12,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\c10.png
+2023-11-12 09:47:12,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\c11.png
+2023-11-12 09:47:12,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\c11.png.asr
+2023-11-12 09:47:13,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\c11.png
+2023-11-12 09:47:13,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\c12.png
+2023-11-12 09:47:13,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\c12.png.asr
+2023-11-12 09:47:14,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\c12.png
+2023-11-12 09:47:14,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\img10.jpg
+2023-11-12 09:47:14,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\img10.jpg.asr
+2023-11-12 09:47:15,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\img10.jpg
+2023-11-12 09:47:15,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\img11.jpg
+2023-11-12 09:47:15,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\img11.jpg.asr
+2023-11-12 09:47:15,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\img11.jpg
+2023-11-12 09:47:15,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\img12.jpg
+2023-11-12 09:47:15,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\img12.jpg.asr
+2023-11-12 09:47:16,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\img12.jpg
+2023-11-12 09:47:16,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\img20.jpg
+2023-11-12 09:47:16,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\img20.jpg.asr
+2023-11-12 09:47:17,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\img20.jpg
+2023-11-12 09:47:17,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\img21.jpg
+2023-11-12 09:47:17,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\img21.jpg.asr
+2023-11-12 09:47:17,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\img21.jpg
+2023-11-12 09:47:17,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\img22.jpg
+2023-11-12 09:47:17,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\img22.jpg.asr
+2023-11-12 09:47:18,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\img22.jpg
+2023-11-12 09:47:18,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\img30.jpg
+2023-11-12 09:47:18,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\img30.jpg.asr
+2023-11-12 09:47:19,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\img30.jpg
+2023-11-12 09:47:19,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\img31.jpg
+2023-11-12 09:47:19,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\img31.jpg.asr
+2023-11-12 09:47:20,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\img31.jpg
+2023-11-12 09:47:20,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\img32.jpg
+2023-11-12 09:47:20,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\img32.jpg.asr
+2023-11-12 09:47:20,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\img32.jpg
+2023-11-12 09:47:20,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA1.csv
+2023-11-12 09:47:20,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\MOCK_DATA1.csv.asr
+2023-11-12 09:47:21,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA1.csv
+2023-11-12 09:47:21,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA1.docx
+2023-11-12 09:47:21,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\MOCK_DATA1.docx.asr
+2023-11-12 09:47:22,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA1.docx
+2023-11-12 09:47:22,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA1.pdf
+2023-11-12 09:47:22,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\MOCK_DATA1.pdf.asr
+2023-11-12 09:47:22,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA1.pdf
+2023-11-12 09:47:22,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA1.pptx
+2023-11-12 09:47:22,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\MOCK_DATA1.pptx.asr
+2023-11-12 09:47:23,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA1.pptx
+2023-11-12 09:47:23,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA1.xlsx
+2023-11-12 09:47:23,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\MOCK_DATA1.xlsx.asr
+2023-11-12 09:47:24,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA1.xlsx
+2023-11-12 09:47:24,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA2.csv
+2023-11-12 09:47:24,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\MOCK_DATA2.csv.asr
+2023-11-12 09:47:25,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA2.csv
+2023-11-12 09:47:25,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA2.docx
+2023-11-12 09:47:25,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\MOCK_DATA2.docx.asr
+2023-11-12 09:47:25,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA2.docx
+2023-11-12 09:47:25,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA2.pdf
+2023-11-12 09:47:25,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\MOCK_DATA2.pdf.asr
+2023-11-12 09:47:26,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA2.pdf
+2023-11-12 09:47:26,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA2.pptx
+2023-11-12 09:47:26,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\MOCK_DATA2.pptx.asr
+2023-11-12 09:47:27,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA2.pptx
+2023-11-12 09:47:27,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA3.csv
+2023-11-12 09:47:27,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\MOCK_DATA3.csv.asr
+2023-11-12 09:47:28,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA3.csv
+2023-11-12 09:47:28,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA3.docx
+2023-11-12 09:47:28,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\MOCK_DATA3.docx.asr
+2023-11-12 09:47:28,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA3.docx
+2023-11-12 09:47:28,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA3.pdf
+2023-11-12 09:47:28,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\MOCK_DATA3.pdf.asr
+2023-11-12 09:47:29,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA3.pdf
+2023-11-12 09:47:29,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA3.pptx
+2023-11-12 09:47:29,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\MOCK_DATA3.pptx.asr
+2023-11-12 09:47:30,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA3.pptx
+2023-11-12 09:47:30,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA3.xlsx
+2023-11-12 09:47:30,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\MOCK_DATA3.xlsx.asr
+2023-11-12 09:47:31,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\MOCK_DATA3.xlsx
+2023-11-12 09:47:31,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\test1.docx
+2023-11-12 09:47:31,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\test1.docx.asr
+2023-11-12 09:47:31,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\test1.docx
+2023-11-12 09:47:31,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\test2.docx
+2023-11-12 09:47:31,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\test2.docx.asr
+2023-11-12 09:47:32,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\test2.docx
+2023-11-12 09:47:32,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\test3.docx
+2023-11-12 09:47:32,created C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\EncryptedFiles\test3.docx.asr
+2023-11-12 09:47:33,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\Mover-TestFiles\test3.docx
+2023-11-12 09:48:03,finished
