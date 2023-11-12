@@ -111,6 +111,48 @@ bool checkMagicNumber(const std::string &filename)
     return false;
 }
 
+const unsigned char zipref[1003][5] = {
+    {0X1F, 0X9D, 0, 0, 2},       // tar
+    {0X1F, 0XA0, 0, 0, 2},       // tar
+    {0X1F, 0X8B,0 ,0, 2}, // tar gz
+    {0X50, 0X4B, 0X03, 0, 3},       // zip
+    {0X50, 0X4B, 0X05, 0, 3},       // zip
+    {0X50, 0X4B, 0X07, 0, 3},       // zip
+    {0X52, 0X61, 0X72, 0X21, 4}, // rar
+};
+
+bool checkZipNumber(const std::string &filename)
+{
+    // Open the file
+    std::ifstream file(filename, std::ios::binary);
+    if (!file.is_open())
+    {
+        return false;
+    }
+
+    // Read the magic number from the file
+    unsigned char magic[sizeof(zipref[0])];
+    file.read(reinterpret_cast<char *>(magic), sizeof(magic));
+
+    // Close the file
+    file.close();
+
+    // Compare the magic number to the reference magic number
+    for (int i = 0; i < sizeof(zipref) / sizeof(zipref[0]); i++)
+    {
+        bool isSame = true;
+        
+        int value=zipref[i][4];
+        if(memcmp(magic,zipref[i],2) == 0)
+        {
+            return true;
+        }
+
+    }
+
+    return false;
+}
+
 int main()
 {
     // Get the filename from the user
