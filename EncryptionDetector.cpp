@@ -59,7 +59,6 @@ double detectEcryption(char *filePath)
 
   double percent = 0;
   double montepi = 4.0 * (((double)inmonte) / mcount);
-  std::cout<<montepi<<" ";
   double monteErrRate = 100.0 * (fabs(M_PI - montepi) / M_PI);
   if (monteErrRate < 0.01)
   {

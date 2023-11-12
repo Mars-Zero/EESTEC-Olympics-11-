@@ -538,3 +538,20 @@
 2023-11-11 16:25:10,moving to C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\CritroniVariant-TestFiles\test3.docx.pxdvxcb
 2023-11-11 16:25:10,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\CritroniVariant-TestFiles\test3.docx
 2023-11-11 16:25:41,finished
+2023-11-12 05:18:52,starting in C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\CritroniVariant\
+2023-11-12 05:18:52,Processing 29 files. new ext hpunvdq
+2023-11-12 05:18:57,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\CritroniVariant-TestFiles\c10.png
+2023-11-12 05:18:57,moving to C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\CritroniVariant-TestFiles\c10.png.hpunvdq
+2023-11-12 05:18:57,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\CritroniVariant-TestFiles\c10.png
+2023-11-12 05:18:58,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\CritroniVariant-TestFiles\c11.png
+2023-11-12 05:18:58,moving to C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\CritroniVariant-TestFiles\c11.png.hpunvdq
+2023-11-12 05:18:58,processed C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\CritroniVariant-TestFiles\c11.png
+2023-11-12 05:18:58,processing C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\CritroniVariant-TestFiles\c12.png
+2023-11-12 05:18:58,moving to C:\Users\EO11\Desktop\EO11\Ransim\Scenarios\CritroniVariant-TestFiles\c12.png.hpunvdq
+2023-11-12 05:18:58,The process cannot access the file because it is being used by another process.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalMove(String sourceFileName, String destFileName, Boolean checkHost)
+   at 
+ .
+ .	
+()
