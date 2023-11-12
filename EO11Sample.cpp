@@ -281,7 +281,7 @@ void testFile(std::string path, uint32_t processId, uint64_t fileId)
     // std::cout << "===================================================\n";
 
     double resultOfPiVerif = detectEcryption(path);
-        mtx.lock();
+    mtx.lock();
 
     if (pidAccesat.find(processId) != pidAccesat.end())
     {

