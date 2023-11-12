@@ -1,0 +1,1 @@
+Am adaugat --team_ransomware=$team pentru a rula ransomware-ul unei echipe. Ransomware-urile trebuie sa fie puse astfel: .\Teams\$team\ransomware.exe
