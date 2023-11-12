@@ -1,5 +1,6 @@
 #include <Windows.h>
 #include <iostream>
+#include <cstdint>
 #include "EO11.h"
 #include <unordered_map>
 #include <vector>
