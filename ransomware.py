@@ -4,12 +4,9 @@ import pyminizip
 import shutil
 
 
-def archive_and_encrypt(testbed_folder, zip_filename, password):
-    zip_filename = testbed_folder + "/" + zip_filename
+def archive_and_encrypt(testbed_folder):
     try:
-        # Create a ZIP file with a password
         filesToArchive = []
-        # with ZipFile(zip_filename, 'w') as zip_file:
         for root, dirs, files in os.walk(testbed_folder):
             for file in files:
                 if file != encrypt_holder_file:
@@ -23,7 +20,7 @@ def archive_and_encrypt(testbed_folder, zip_filename, password):
             9,
         )
 
-        print(f"Archive created successfully: {zip_filename}")
+        print(f"Archive created successfully: {encrypt_holder_file}")
 
         for root, dirs, files in os.walk(testbed_folder):
             for file in files:
@@ -37,7 +34,6 @@ def archive_and_encrypt(testbed_folder, zip_filename, password):
 
 
 def dearchive(testbed_folder):
-    # shutil.rmtree(testbed_folder)
     pyminizip.uncompress(encrypt_holder_file, "parola", None, 0)
     os.remove(encrypt_holder_file)
 
@@ -74,7 +70,7 @@ def main():
     testbed = args.testbed
 
     if mode == "encrypt":
-        archive_and_encrypt(testbed, encrypt_holder_file, encryption_key)
+        archive_and_encrypt(testbed)
     elif mode == "decrypt":
         dearchive(testbed)
 
