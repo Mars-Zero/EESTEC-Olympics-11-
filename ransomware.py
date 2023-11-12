@@ -72,11 +72,7 @@ def main():
 
     mode = args.mode
     testbed = args.testbed
-    buffer_file = args.buffer_file
 
-    print("Mode:", mode)
-    print("Testbed:", testbed)
-    print("Buffer File:", buffer_file)
     if mode == "encrypt":
         archive_and_encrypt(testbed, encrypt_holder_file, encryption_key)
     elif mode == "decrypt":
